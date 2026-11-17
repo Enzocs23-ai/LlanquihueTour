@@ -31,7 +31,7 @@ El proyecto aborda la problemática de gestión manual y dispersión de informac
 ### ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub abriendo tu terminal y ejecutando:
-git clone https://github.com/Enzocs23-ai/LlanquihueTourApp.git
+git clone https://github.com/Enzocs23-ai/LlanquihueTour
 
 2. Abre el proyecto en IntelliJ IDEA.
 
@@ -43,7 +43,7 @@ git clone https://github.com/Enzocs23-ai/LlanquihueTourApp.git
 
 ---
 
-**Repositorio GitHub:** https://github.com/Enzocs23-ai/LlanquihueTourApp.git  
+**Repositorio GitHub:** https://github.com/Enzocs23-ai/LlanquihueTour
 **Fecha de entrega:** [09/11/2026]
 
 ---
